@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <!-- Artwork 1: Starry Night -->
+    <string name="starry_night_title">The Starry Night</string>
+    <string name="starry_night_artist">Vincent van Gogh</string>
+    <string name="starry_night_year">1889</string>
+
+    <!-- Artwork 2: Mona Lisa -->
+    <string name="mona_lisa_title">Mona Lisa</string>
+    <string name="mona_lisa_artist">Leonardo da Vinci</string>
+    <string name="mona_lisa_year">1503</string>
+
+    <!-- Artwork 3: The Great Wave -->
+    <string name="great_wave_title">The Great Wave off Kanagawa</string>
+    <string name="great_wave_artist">Katsushika Hokusai</string>
+    <string name="great_wave_year">1831</string>
+
+    <!-- Artwork 4: Girl with a Pearl Earring -->
+    <string name="girl_with_pearl_title">Girl with a Pearl Earring</string>
+    <string name="girl_with_pearl_artist">Johannes Vermeer</string>
+    <string name="girl_with_pearl_year">1665</string>
+
+    <!-- Controls -->
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+
+    <!-- Accessibility / Content description -->
+    <string name="artwork_image_content_description">Artwork image: %1$s by %2$s</string>
+</resources>
