@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">BigGhut</string>
+    <string name="title">Android Developer</string>
+    <string name="phone_number">+7 (000) 000-00-00</string>
+    <string name="social_handle">\@BigGhut</string>
+    <string name="email">astafev033@gmail.com</string>
+    <string name="android_logo_description">Android logo</string>
+    <string name="phone_icon_description">Phone number</string>
+    <string name="share_icon_description">Social handle</string>
+    <string name="email_icon_description">Email</string>
+</resources>
