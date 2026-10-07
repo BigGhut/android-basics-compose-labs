@@ -1,6 +1,6 @@
 # Android Basics with Compose
 
-Лабораторные работы по курсу [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose), юниты 1 и 2.
+Лабораторные работы по курсу [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course), юниты 1 и 2.
 
 Каждая папка ниже — отдельный проект Gradle. История DiceRoller и Lemonade подключена через `git subtree`, поэтому коммиты и скриншоты с телефона остались в общем журнале.
 
